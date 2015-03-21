@@ -1,5 +1,7 @@
 # Magic Numbers
 
+Table of magic numbers for some common files.
+
 File Type                         | Extension | Hex Digits  | ASCII 
 ----------------------------------| --------- | ----------- | -----
 Bitmap                            | bmp       | 42 4d       | BM
